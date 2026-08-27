@@ -7,3 +7,4 @@ log_status() {
 }
 
 log_status "System Status: ONLINE (v1.0)"
+echo 'Memory Usage: 42%'
